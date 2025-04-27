@@ -1,0 +1,5 @@
+{
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingComments": "languageDefined",
+    "editor.autoClosingQuotes": "always"
+}
